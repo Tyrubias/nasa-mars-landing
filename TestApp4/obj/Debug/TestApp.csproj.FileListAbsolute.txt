@@ -1,0 +1,29 @@
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.GameWindow.resources
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\bin\Debug\Interop.WMPLib.dll
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\bin\Debug\AxInterop.WMPLib.dll
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\Interop.WMPLib.dll
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\AxInterop.WMPLib.dll
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.csproj.ResolveComReference.cache
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.FinalScreen.resources
+H:\AP CS\Visual Studio Projects\TestApp\TestApp\obj\Debug\TestApp.Results.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\bin\Debug\TestApp.exe.config
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.csproj.ResolveComReference.cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.exe
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.FinalScreen.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.Form1.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.GameWindow.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.Results.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.csproj.GenerateResource.Cache
