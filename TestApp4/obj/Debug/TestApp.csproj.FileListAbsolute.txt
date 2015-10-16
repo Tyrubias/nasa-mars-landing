@@ -27,3 +27,7 @@ C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestAp
 C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.GameWindow.resources
 C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.Results.resources
 C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\TestApp4\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\nasa-mars-landing\TestApp4\bin\Debug\TestApp.exe.config
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\nasa-mars-landing\TestApp4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\nasa-mars-landing\TestApp4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TestApp4-2015-10-14\nasa-mars-landing\TestApp4\obj\Debug\TestApp.csproj.ResolveComReference.cache
